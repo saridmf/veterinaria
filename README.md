@@ -14,7 +14,6 @@
 
 ### Tecnologías Utilizadas
 - **Backend**: Django (Framework de Python)
-- **Frontend**: HTML5, CSS3, JavaScript
 - **Base de Datos**: SQL Server con mecanismos de cifrado y respaldo
 - **Control de Versiones**: Git & GitHub para control de versiones y colaboración
 - **Seguridad**: Cifrado SSL/TLS, RBAC para el control de acceso, cifrado AES-256 para datos en reposo
